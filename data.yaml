@@ -1,0 +1,12 @@
+path: dataset/yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Perfect_bottle
+  1: empty_bottle
+  2: no_cap
+  3: no_label
+  4: crooked_cap
