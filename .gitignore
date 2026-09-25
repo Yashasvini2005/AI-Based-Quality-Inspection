@@ -39,6 +39,7 @@ runs/
 # ==============================
 
 dataset/
+public_datasets/
 
 # ==============================
 # Generated Flask results
